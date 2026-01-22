@@ -6,7 +6,7 @@ import authRoutes from "./routes/auth.route.js" //.js because it's local file wa
 import messageRoutes from "./routes/message.route.js"
 import { connectDB } from "./lib/db.js";
 import { app , server } from "./lib/socket.io.js";
-import path from "path";
+// import path from "path";
 
 
 dotenv.config();
