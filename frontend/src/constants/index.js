@@ -11,7 +11,7 @@ export const THEMES = [
     "valentine",
     "halloween",
     "garden",
-    "forest",
+    "foret",
     "aqua",
     "lofi",
     "pastel",
